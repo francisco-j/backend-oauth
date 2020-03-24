@@ -1,0 +1,4 @@
+GOOGLE_OAUTH=google api key
+GOOGLE_SECRET=googlee api key
+MONGO_DB=database adress
+COOKIE_KEY=arbitrary string
